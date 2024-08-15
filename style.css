@@ -1,0 +1,65 @@
+/* @import url('https://fonts.googleapis.com/css?family=Roboto'); */
+
+.section{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    /* font-family: 'Roboto', sans-serif; */
+    background-color: #101214;
+    color: #7A7C80;
+
+}
+
+.section-2 p{
+    color: antiquewhite;
+}
+
+.section-1 p{
+    color: antiquewhite;
+}
+
+h2,.white{
+    color: #fff;
+}
+
+a{
+    color: antiquewhite;
+    text-decoration: none;
+}
+/* section 1 */
+.section-1{
+    padding-top: 40vh;
+    text-align: center;
+}
+
+
+.section-1 h2{
+    font-size: 1.7rem;
+    margin-bottom: 10px;
+}
+
+.section-2{
+    padding-top: 10vh;
+    width: 70%;
+}
+/* .hr{
+    color: rgb(255, 30, 0);
+} */
+.chapter-1{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.chapter-1 h1{
+    color: #7A7C80;
+
+}
+
+
+/* registration form */
+.chapter-1{
+    text-align: end;
+}
